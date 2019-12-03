@@ -13,7 +13,7 @@
 
 # IntelliJ IDEA | GoLand Files
 
-*.iml
-*.ipr
-*.iws
-*.idea
+*.iml/
+*.ipr/
+*.iws/
+*.idea/
