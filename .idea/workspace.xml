@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612ec81a-04c5-4ca2-ba3e-8690bd1ba2fb" name="Default Changelist" comment="" />
+    <list default="true" id="612ec81a-04c5-4ca2-ba3e-8690bd1ba2fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SimpleGoLang" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -32,7 +38,7 @@
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.13.4/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webApp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -62,7 +68,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -144,6 +150,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/webApp" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#GOPATH" timestamp="1575393713287">
       <screen x="0" y="0" width="1440" height="900" />
@@ -157,26 +168,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="427" y="93" key="#go_build_SimpleApp.go/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575404184713" />
-    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1575404244757">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1575405721373">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.bottom/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575404244757" />
-    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1575404244755">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575405721373" />
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1575405721371">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.center/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575404244755" />
-    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1575404244755">
+    <state width="699" height="245" key="GridCell.Tab.0.center/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575405721371" />
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1575405721370">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.left/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575404244755" />
-    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1575404244756">
+    <state width="699" height="245" key="GridCell.Tab.0.left/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575405721370" />
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1575405721372">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.right/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575404244756" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1575403980943">
+    <state width="699" height="245" key="GridCell.Tab.0.right/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575405721372" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1575406435509">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575403980943" />
+    <state x="221" y="89" key="SettingsEditor/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406435509" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575406079878">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406079878" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575406555157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406555157" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1575406784568">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406784568" />
     <state x="471" y="330" width="668" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1575403940510">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
