@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612ec81a-04c5-4ca2-ba3e-8690bd1ba2fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="612ec81a-04c5-4ca2-ba3e-8690bd1ba2fb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,15 +148,44 @@
       <option name="presentableId" value="Default" />
       <updated>1575391572269</updated>
     </task>
+    <task id="LOCAL-00001" summary="gitignore test">
+      <created>1575406801896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575406801896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore test (1)">
+      <created>1575406936560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575406936560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/webApp" />
     </ignored-roots>
+    <MESSAGE value="gitignore test" />
+    <MESSAGE value="gitignore test (1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore test (1)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#GOPATH" timestamp="1575393713287">
@@ -174,10 +200,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="427" y="93" key="#go_build_SimpleApp.go/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575404184713" />
-    <state x="295" y="52" key="CommitChangelistDialog2" timestamp="1575406801756">
+    <state x="295" y="52" key="CommitChangelistDialog2" timestamp="1575406936475">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="295" y="52" key="CommitChangelistDialog2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406801756" />
+    <state x="295" y="52" key="CommitChangelistDialog2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406936475" />
     <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1575405721373">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -198,10 +224,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406435509" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575406805119">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575406939038">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406805119" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406939038" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575406555157">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
