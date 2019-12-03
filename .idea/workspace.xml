@@ -38,6 +38,11 @@
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.13.4/libexec" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Stefan Baychev &lt;sbaychev@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -53,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -168,6 +174,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="427" y="93" key="#go_build_SimpleApp.go/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575404184713" />
+    <state x="295" y="52" key="CommitChangelistDialog2" timestamp="1575406801756">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="295" y="52" key="CommitChangelistDialog2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406801756" />
     <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1575405721373">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -188,10 +198,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406435509" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575406079878">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1575406805119">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406079878" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575406805119" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575406555157">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
